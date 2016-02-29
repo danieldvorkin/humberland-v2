@@ -36,15 +36,16 @@ body a:hover{
 }
 /*-- logo --*/
 .logo{
-	background:#E0BD62;
 	width:200px;
-	height:200px;
 	border-radius:100%;
 	-webkit-border-radius:100%;
 	-moz-border-radius:100%;
 	-o-border-radius:100%;
 	-ms-border-radius:100%;
 	text-align:center;
+}
+.logo img {
+	width:200px;
 }
 .logo h1 a{
 	color: #fff;
