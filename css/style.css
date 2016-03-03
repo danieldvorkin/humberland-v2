@@ -2276,3 +2276,17 @@ h2.typoh2 {
 #right1-2, #right1-3 {
   height: 218px;
 }
+
+#right1-1 {
+  height: 218px;
+}
+
+#right1-2 #learn {
+  position: relative;
+  top: 50px;
+}
+
+#right1-3 #learn {
+  position: relative;
+  top: 25px;
+}
