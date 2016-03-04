@@ -2292,6 +2292,10 @@ h2.typoh2 {
 }
 
 .program-info {
-  margin-top: 30px;
-  margin-left: 45px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.program-pics {
+  width: 170px;
 }
