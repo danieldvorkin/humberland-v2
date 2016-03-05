@@ -43,6 +43,7 @@ body a:hover{
 	-o-border-radius:100%;
 	-ms-border-radius:100%;
 	text-align:center;
+	height:45px;
 }
 .logo img {
 	max-width:100%;
@@ -1658,10 +1659,11 @@ h2.typoh2{
 		float: left;
 		width: 100%;
 		text-align: center;
+		top:0px;
 	}
 	.logo {
 		width: 150px;
-		height: 150px;
+		height: 80px;
 		margin: 0 auto;
 	}
 	.logo h1 a {
@@ -1892,5 +1894,9 @@ h2.typoh2{
 
 #right1-3 #learn {
 	position:relative;
-	top:25px;
+	top:0px;
+}
+div.banner-body-left:eq(1) {
+	position: relative;
+	top:-190px;
 }
