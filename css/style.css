@@ -323,7 +323,7 @@ i.envelope, .navbar-default .navbar-nav > li > a:hover i.envelope1 {
 }
 
 .banner1 {
-  background: url(../new_imgs/3.JPG) no-repeat 0px 0px;
+  background: url(../new_imgs/5.JPG) no-repeat 0px 0px;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -813,7 +813,7 @@ figure.effect-winston:hover figcaption::before {
 /*-- blog --*/
 .blog-grid-left img {
   padding: .3em;
-  border: 1px dotted #999;
+  /*border: 1px dotted #999;*/
 }
 
 .blog-grid-right h4 a {
